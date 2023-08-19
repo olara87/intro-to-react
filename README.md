@@ -11,3 +11,4 @@ Currently, two official plugins are available:
 ## Local Development
 
 1. Open the README file.
+2. Have fun!
